@@ -146,3 +146,11 @@
 - 날씨와 미세먼지에 따른 정신질환 발생 정도의 연관성 확인
   - 기후 변화와 미세먼지 관련 정책 마련 동기 부여
   - 정신질환으로 인한 범죄 및 자살 예측 모델 기여
+
+
+# [참고 문헌]
+- Liu Jia Jia,Wang Feng,Liu Hui,Wei Ya Bin,Li Hui,Yue Jingli,Que Jianyu,Degenhardt Louisa,Lappin Julia,Lu Lin,Bao Yanping,Wang Jing. "Ambient fine particulate matter is associated with increased emergency ambulance dispatches for psychiatric emergencies” Environmental research VOL.177 NO.- (2019)
+- Peters R, Ee N, Peters J, Booth A, Mudway I, Anstey KJ. “Air Pollution and Dementia: A Systematic Review. J Alzheimers Dis”. 2019 Feb 11 doi: 10.3233/JAD-180631
+- 이승복, “미세먼지가 인체에 미치는 영향에 관한 연구 동향”, BRIC View 동향리포트  2019-T26, page7-8
+- 박상현, “대기오염, 미세먼지 그리고 응급의학”, 2019년도 대한응급의학회 추계학술대회, page1
+- 김길원, "초미세먼지, 날 풀리면 더 위험…정신질환 응급입원 증가”, 연합뉴스, 2019-02-11 06:03, https://www.yna.co.kr/view/AKR20190208118500017
